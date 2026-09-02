@@ -1,3 +1,5 @@
-print("hello evan")
-for i in range(100):
-    print("hello evan")
+print("hello gayathri")
+a=5
+b=9
+c= a + b
+print(c)
